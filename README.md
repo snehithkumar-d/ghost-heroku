@@ -2,7 +2,7 @@
 
 Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
-## Ghost version 2.X
+## Ghost version 5.X
 
 The latest release of Ghost is now supported! Changes include:
 
@@ -34,7 +34,7 @@ This repository is a [Node.js](https://nodejs.org) web application that specifie
 Optionally after deployment, to push Ghost upgrades or work with source code, clone this repo (or a fork) and connect it with the Heroku app:
 
 ```bash
-git clone https://github.com/m1guelpf/ghost-heroku
+git clone https://github.com/snehithkumar-d/ghost-heroku
 cd ghost-heroku
 
 heroku git:remote -a YOURAPPNAME
