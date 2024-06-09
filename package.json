@@ -10,15 +10,15 @@
     "url": "https://github.com/TryGhost/Ghost/issues"
   },
   "private": true,
-  "version": "5.00.0",
+  "version": "4.48.0",
   "dependencies": {
     "casper": "git+https://github.com/TryGhost/Casper.git",
-    "ghost": "^5.00.0",
+    "ghost": "^4.48.9",
     "ghost-imgur": "^0.0.5",
     "mysql": "^2.18.1"
   },
   "engines": {
-    "node": "18.X"
+    "node": "16.X"
   },
   "scripts": {
     "start": "node server.js"
