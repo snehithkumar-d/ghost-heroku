@@ -12,7 +12,7 @@
   "dependencies": {
     "casper": "git+https://github.com/TryGhost/Casper.git#5.7.2",
     "ghost": "^5.84.2",
-    "ghost-imgur": "^1.0.0",
+    "ghost-imgur": "0.0.5",
     "mysql": "^2.18.1"
   },
   "engines": {
