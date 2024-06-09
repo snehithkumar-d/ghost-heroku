@@ -13,10 +13,9 @@
   "version": "2.0.0",
   "dependencies": {
     "casper": "git+https://github.com/TryGhost/Casper.git",
-    "ghost": "5.47.0",
+    "ghost": "5.30.0",
     "ghost-imgur": "^0.0.5",
-    "mysql": "^2.18.1",
-    "@tryghost/adapter-base-cache": "^0.1.12"
+    "mysql": "^2.18.1"
   },
   "engines": {
     "node": "16.X"
